@@ -1,3 +1,12 @@
+## Salary Search for Software Engineer New Grad Positions
+Simple project to practice using Google Sheets API to extract the data from the Sheets to useable data.
+Implemented with Axios for requests, Google Sheets API to get the data, and AntJS for UI.
+
+Link to [Sheets](https://docs.google.com/spreadsheets/d/1Km9bsx0SWPDiOPMYvremSDujyS5sF0ZQvbxr5S52wSA/htmlview?usp=sharing&utm_content=buffer8659f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&sle=true)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
